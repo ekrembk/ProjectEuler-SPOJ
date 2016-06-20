@@ -6,4 +6,4 @@ I started programming when I was 12. I wrote very basic code in C++, mostly in t
 
 Right now, I am studying CS in Sabanci Univeristy/Turkey. I started learning Python on my own in February 2016 and ProjectEuler is the place I test myself by solving problems based on mathematics. I like sharing and take a look at what others do in terms of solving these problems, thus in June 2016 I started this GitHub page to share what I do.
 
-Feel free to contact me by e-mail: orancanoren@sabanciuniv.edu
+Feel free to contact me by e-mail: orancan@sabanciuniv.edu
