@@ -1,4 +1,4 @@
-#ProjectEuler problem 8
+#ProjectEuler problem 10
 #Solved: 23 Apr 2016
 
 def isPrime(x): #Classic isPrime function <trial division>
