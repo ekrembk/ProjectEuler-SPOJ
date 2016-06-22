@@ -25,7 +25,7 @@ def circulate(x):
         new_number.append(new_number[0])
         new_number.pop(0)
         if ''.join(new_number) not in numbers:
-            numbers.append(''.join(new_number))
+            numbers.append(int(''.join(new_number)))
         else:
             return numbers
 def main():
@@ -35,7 +35,7 @@ def main():
             continue
         numbers = circulate(i)
         for i in numbers:
-            if not isPrime(int(i)):
+            if not isPrime(i):
                 break
         else:
             counter += 1
