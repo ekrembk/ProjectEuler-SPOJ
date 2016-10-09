@@ -1,5 +1,5 @@
 # ProjectEuler-SPOJ
-This is the repo I share my solutions for ProjectEuler (<i>wow, how original</i>)
+This is the repo I share my solutions for ProjectEuler and SPOJ(<i>wow, how original</i>)
 
 <b>So what's the point of this repo?</b>
 <br>
